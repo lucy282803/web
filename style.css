@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.box{
+    width: 100%;
+    height: 4650px;
+    margin: 0 auto;
+    position: relative;
+}
+.con1{
+    position: absolute;
+    top: 0px;
+
+}
+.con2{
+    position: absolute;
+    top: 800px;
+}
+.con3{
+    position: absolute;
+    top: 1353px;
+}
+.con4{
+    position: absolute;
+    top: 1529px;
+
+}
+.con5{
+    position: absolute;
+    top: 3005px;
+
+}
+.can{
+    top: 176px;
+    left: 1367px;
+    position: absolute;
+}
